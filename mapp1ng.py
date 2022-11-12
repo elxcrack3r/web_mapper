@@ -5,7 +5,7 @@ import urllib
 
 threads = 10
 
-target = "https://www.backhatpython.com"
+target = "<url>"
 directory = "/usr/share/wordlists/dirb/common.txt"
 filters = [".jpg", ".gif", ".png", ".css"]
 
